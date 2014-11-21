@@ -6,4 +6,4 @@ DicomTool is a free C++ tool, based on DCMTK lib, that given a dicom image (it a
 * convert them to bitmap format; 
 * save their pixel data value in a ascii and/or binary file;
 
-For more info see wiki https://github.com/matteomanca/DicomTool/wiki/DicomTool-Wiki
+For more details see wiki https://github.com/matteomanca/DicomTool/wiki/DicomTool-Wiki
